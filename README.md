@@ -10,4 +10,4 @@ Me interesa la programación porque me permite crear soluciones innovadoras y me
 - Python
 - JavaScript
 - Bases de datos SQL
-asdasdfsndfnasdxxddddd
+es muy importante el visual estudio code
